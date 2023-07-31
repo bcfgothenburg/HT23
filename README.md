@@ -1,4 +1,4 @@
-# Courses given during autumn 2022
+# Courses given during autumn 2023
 
   * SC00038: [Bioinformatics II](https://github.com/bcfgothenburg/HT23/wiki/Bioinformatics-II)
   * SC00034: [Gene Expression analysis using R](https://github.com/bcfgothenburg/HT23/wiki/Gene-expression-analysis-using-R)
